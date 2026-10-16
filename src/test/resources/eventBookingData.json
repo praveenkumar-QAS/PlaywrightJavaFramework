@@ -1,0 +1,15 @@
+[
+  {
+    "eventPrifix": "Playwright Test Event",
+    "description": "Playwright Event Description",
+    "category": "Concert",
+    "city": "Siwan",
+    "venue": "Indoor Stadium",
+    "dateTime": "2026-12-25T18:50",
+    "price": "100",
+    "totalSeats": "1000",
+    "firstName": "Praveen",
+    "email": "abc@gmail.com",
+    "phone": "8495465865"
+  }
+]
