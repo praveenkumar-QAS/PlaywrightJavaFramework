@@ -40,7 +40,8 @@ public class BaseTest
         }
         else
         {
-            browser = playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(false));
+            //browser = playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(false));
+            browser = playwright.chromium().launch();
         }
 
 
